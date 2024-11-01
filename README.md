@@ -13,8 +13,6 @@ This project performs clustering on event-based data, primarily using the `DBSCA
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Algorithms Supported](#algorithms-supported)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
