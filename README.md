@@ -30,20 +30,14 @@ Ensure you have the following dependencies installed:
 
 - Python 3.8 or higher
 - Libraries: `h5py`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`, `opencv-python`, `kneed`
-  
-Install all dependencies using the `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Installation
 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/raedrasheed/event_camera.git
+cd event_camera
 ```
 
 ## Usage
@@ -102,21 +96,3 @@ Each clustering algorithm has different parameters (e.g., `eps` and `min_samples
 ├── README.md                          # Project documentation
 └── requirements.txt                   # List of dependencies
 ```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature`.
-3. Commit your changes: `git commit -m "Add your feature"`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Open a pull request.
-
-### Code of Conduct
-
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
