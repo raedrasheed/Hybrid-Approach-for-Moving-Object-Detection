@@ -1,5 +1,5 @@
-# A Hybrid Approach for Moving Object Detection and Tracking in Event-Based Cameras 
-## Ahmed S. Ghorab, Raed Rasheed, Hanan Abu-Mariah, Wesam M. Ashour
+## <p align="center"> A Hybrid Approach for Moving Object Detection and Tracking in Event-Based Cameras 
+<br> Ahmed S. Ghorab, Raed Rasheed, Hanan Abu-Mariah, Wesam M. Ashour</p>
 
 Here’s a comprehensive `README.md` template for the project, covering its description, setup, usage, and contributing guidelines:
 
